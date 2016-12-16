@@ -1,4 +1,4 @@
-﻿package math.arithmetic.elementray;
+package math.arithmetic.elementray;
 
 import static math.arithmetic.elementray.ResultFormater.COUNT_PER_LINE;
 import static math.arithmetic.elementray.ResultFormater.LINE_PER_PAGE;
